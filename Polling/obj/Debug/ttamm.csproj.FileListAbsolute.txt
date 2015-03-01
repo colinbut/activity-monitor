@@ -1,0 +1,12 @@
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\build\ActivityMonitoring.dll
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\build\Interop.SHDocVw.dll
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\build\MSMQ.dll
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\build\MSMQ.pdb
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\build\ActivityMonitoring.pdb
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\build\ttamm.exe
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\build\ttamm.pdb
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\obj\Debug\ttamm.exe
+C:\Users\Colin\Documents\Visual Studio 2008\Projects\Polling\Polling\obj\Debug\ttamm.pdb
+C:\Users\Colin\Final\Polling\Polling\obj\Debug\ttamm.exe
+C:\Users\Colin\Final\Polling\Polling\obj\Debug\ttamm.pdb
