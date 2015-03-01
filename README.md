@@ -1,6 +1,6 @@
 # Activity Monitor
 
-A component of a wider application for my University degree final year project/dissertation 
+A component of a wider application for my University degree final year project/dissertation during 2009/2010. 
 
 ### Overview
 This is a background tool (like a service) that runs in the background of a Windows Operating System which actively monitors for 'activity' changes and sends the captured data in custom format to a consuming client application. 
@@ -10,7 +10,7 @@ e.g.
 * creating/reading/viewing/editing/deleting a file
 * creating/browsing/closing/deleting a folder (directory in Windows Explorer)
 * emails tasks
-* creating/opening/deleting ... of Microsoft Office applications (WORD, EXCEL, POWERPOINT etc...)
+* creating/opening/deleting files ... of Microsoft Office applications (WORD, EXCEL, POWERPOINT etc...)
 * Browsing web site(s) 
 
 ### Technologies/Tools
